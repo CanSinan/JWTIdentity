@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JwtTok_RefTok.props" />
+</Project>
